@@ -1,0 +1,14 @@
+{
+  "name": "parse-server-implementation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "joi": "^17.7.0",
+    "parse-dashboard": "^5.0.0",
+    "parse-server": "^5.4.0"
+  }
+}
